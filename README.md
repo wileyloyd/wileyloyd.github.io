@@ -28,11 +28,6 @@ JANUARY 2020 – AUGUST 2020
 - Perform administrative support tasks such as answering calls, scheduling clients, and reviewing yearly admission paperwork.
 - Generate reports for upcoming appointments to identify missing and erroneous data.
 
-
-### Projects
-[Predicting Hospital Readmissions Using KNN Machine Learning Model](hospital_readmissions.ipynb)
-- Analysis of medical data to idenitfy if a patient was at risk of hospital readmission within 30 days of discharge using K-Nearest Neighbors. The model is able to predict with a 97.6% accuracy and 99.77% AUC. 
-
 ### Education
 **Western Governors University**, _Master of Science in Data Analytics_
 Februrary 2022 – January 2024
@@ -46,6 +41,36 @@ Accelerated program in bachelors-level data analytics comprised of 180 hours of 
 August 2015 - May 2019
 Graduated with a Bachelor of Science Cum Laude with a major in sociology and a minor in art. Coursework heavily focused on statistics and research methods.
 
+### Projects
+
+#### Medical Projects
+[KNN Machine Learning Model - Predicting Hospital Readmissions](hospital_readmissions.ipynb)
+- Analysis of medical data to idenitfy if a patient was at risk of hospital readmission within 30 days of discharge using K-Nearest Neighbors. The model is able to predict with a 97.6% accuracy and 99.7% AUC.
+- The primary goal of the analysis is to develop a k-nearest neighbors machine learning model to help identify patients that are at risk of being readmitted into the hospital system within one month of discharge. Forecasting the predicted outcome of an individual patient being readmitted into the system allows the hospital staff to take appropriate action in reducing the risk.
+
+[Random Forest Model - Predicting Hospital Readmissions](random_forests_medical_data.ipynb)
+- Analysis of medical data to idenitfy if a patient was at risk of hospital readmission within 30 days of discharge using Random Forests. This project uses GridSearchCV for hyperparameter tuning, and was able to achieve an accuracy score of 97.6% and an AUC of 99.3%.
+- The primary goal of the analysis is to develop a random forest machine learning model to help identify patients that are at risk of being readmitted into the hospital system within one month of discharge. Forecasting the predicted outcome of an individual patient being readmitted into the system allows the hospital staff to take appropriate action in reducing the risk.
+
+[Market Basket Analysis of Medication Data](Medication_Market_Basket_Analysis.ipynb)
+- Analysis of medication data to explor patterns around prescribing practices. This analysis helps clinical leadership understand prescribing practices of providers, and how can those practices further inform pharmacy leadership on inventory management.
+- The primary goal of the analysis is to identify prescribing patterns in medication transaction data through associations of frequently grouped together medications. Discovering associations between itemsets helps determine which items are commonly prescribed or purchased together. By identifying these patterns, market basket analysis provides insight into prescriber practices and pharmacy purchasing patterns. The knowledge gained from the analysis can help improve patient safety and inform inventory management in the pharmacy. 
+
+[Principal Component Analysis of Medical Data](Principal_Component_Analysis.ipynb)
+- The primary goal of the analysis is to reduce the dimensionality of the data by combining the features into principal components. Reducing the dimensionality of the data is a preprocessing step that aids in the performance of machine-learning algorithms through decorrelation of principal components, single-counting of correlations, simplicity, reducing overfitting, and allows machine-learning models to understand the big picture. Outside machine learning, principal components also act as a method to interpret the data structure by understanding the features' correlations. 
+
+[Hierarchical Clustering Model of Medical Data](Hierarchical_Clustering.ipynb)
+- The primary goal of the analysis is to develop a hierarchical clustering machine learning model to help cluster patients into segments of the length of stay during initial admission and average total charged per day. Performing patient segmentation facilitates improved categorization of patients by various departments. The information gained from this analysis may help inform revenue conversations and patient readmission, as it’s known from previous analyses that there is a relationship between the three features.
+
+#### Natural Language Processing Projects
+[Sentiment Analysis of Customer Review Data Using Natural Language Processing](Sentiment_Analysis.ipynb)
+- The primary goal of the analysis is to employ neural network and natural language processing techniques on text data from external organization customer reviews to predict the sentiment, and use predictive insights to enhance customer satisfaction and inform strategic decision-making.
+
+#### Time Series Analysis
+[Time Series Analysis of Revenue Data](Medical_ARIMA_Time_Series_Analysis.ipynb)
+- The primary goal of the analysis is to forecast and analyze patterns of revenue data for a healthcare system and determine how can the insights derived from these models contribute to optimizing financial strategies and decision-making for the organization.
+- The objectives of this analysis are to prepare the data for analysis by identifying missing values, verify the assumptions of time series analysis, and to build a model that is able to answer the research question. For this analysis, this analyst will use multiple methods to experiment and identify a model. The first method will be manually selecting some parameters for a series of models based on visual analysis of trends and seasonal decomposition, the second method will be to create a loop that will compare parameter values with one another in order to find the best performing model, and finally this analyst will use Auto ARIMA to see what that model thinks is the best performing model. 
+
 ### Awards
-- **Excellence Award, Data Mining I, Task 1**, _Western Governors University_ (2022)
-- **Above and Beyond Award**, _Burrell Employee Engagement Team_ (2021)
+- [**Excellence Award, Data Mining I, Task 1**](Excellence_Award_Data_Mining_I_Task_1.pdf), _Western Governors University_ (2022)
+- [**Above and Beyond Award**](BEET_Above_and_Beyond.pdf), _Burrell Employee Engagement Team_ (2021)
