@@ -15,7 +15,7 @@ November 2021 – Present
 - Acquired external data from various websites to help enrich the contextual meaning of company data and provide successful recommendations to executive leadership.
 
 **Burrell Behavioral Health**, _Scheduling Coordinator_
-AUGUST 2020 – November 2021
+August 2020 – November 2021
 - Performed database cleaning, data analysis, data visualization, and presented recommendations to leadership
 - Led the implementation of Agile methodology to optimize provider coverage and schedules resulting in a 25% reduction in idle time through the analysis of scheduling patterns.
 - Facilitated weekly sprint planning session and scrum meetings to track progress, identify roadblocks, and foster team collaboration. Utilized Kansan boards to visualize workflow and prioritize tasks based on project needs.
@@ -23,7 +23,7 @@ AUGUST 2020 – November 2021
 - Communicate with internal and external stakeholders to continuously improve technology and systems that lead to the improvement of medical scheduling practices.
 
 **Burrell Behavioral Health**, _Client Access Representative_
-JANUARY 2020 – AUGUST 2020
+January 2020 – August 2020
 - Express exceptional customer service skills to internal and external clients
 - Perform administrative support tasks such as answering calls, scheduling clients, and reviewing yearly admission paperwork.
 - Generate reports for upcoming appointments to identify missing and erroneous data.
