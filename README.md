@@ -33,7 +33,7 @@ JANUARY 2020 – AUGUST 2020
 Februrary 2022 – January 2024
 Accelerated program in masters-level data analytics comprised of advanced analytics and data science coursework on how to solve complex business problems to lead organizations to success.
 
-**Google**, _Coursera Professional Certificate in Data Analytics_
+[**Google**, _Coursera Professional Certificate in Data Analytics_](Google_Data_Analytics_Certificate.pdf)
 March 2021- August 2021
 Accelerated program in bachelors-level data analytics comprised of 180 hours of coursework on how to how to collect, transform, and organize data to draw conclusions, make predictions, and drive informed decision-making.
 
