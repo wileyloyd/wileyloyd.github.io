@@ -3,10 +3,17 @@
 ### Technical Skills
 - Proficiency with spreadsheets, Smartsheet, SQL, Tableau, Power BI, R Programming, and Python.
 - Strong business strategy, leadership, program management, analytical thinking, statistics, machine learning, data visualization, technical writing, and creative thinking skills.
+- XGBoost, TensorFlow, Keras, NLTK, Scikit-learn, SciPy, Pandas, Numpy, Seaborn, Matplotlib, ARIMA, KNN
 
 ### Work Experience
+**Family & Children's Services**, _Business Intelligence Analyst_
+March 2024 - Present
+- Identified department-wide data collection redundancies, reducing triplicate data entry into single form entry.
+- Automate monthly grant reporting to ensure partnering and governing agencies recieved required data. 
+- Reduced crisis & inpatient hospital readmissions by _% through machine learning techniques. 
+- Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of no show using machine learning techniques. 
 **Burrell Behavioral Health**, _Quality Performance Analyst_
-November 2021 – Present
+November 2021 – March 2024
 - Reduced wait time by 68% for new psychiatric patients by analyzing trends and recommending changes to business operations.
 - Implemented new KPIs and process automations to optimize workflow and support a 71% increase in new medical providers while maintaining a lean administrative team.
 - Improved the efficiency of the BMG administrative support team by 45% through the identification and optimization of cumbersome job processes.
