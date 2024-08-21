@@ -8,7 +8,7 @@
 ### Work Experience
 **Family & Children's Services**, _Business Intelligence Analyst_
 March 2024 - Present
-- Identified department-wide data collection redundancies, reducing triplicate data entry into single form entry.
+- Otimized data collection redundancies, reducing triplicate data entry into single form entry.
 - Automate monthly grant reporting to ensure partnering and governing agencies recieved required data. 
 - Reduced crisis & inpatient hospital readmissions by _% through machine learning techniques. 
 - Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of no show using machine learning techniques.
