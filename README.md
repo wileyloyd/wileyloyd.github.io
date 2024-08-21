@@ -11,7 +11,8 @@ March 2024 - Present
 - Identified department-wide data collection redundancies, reducing triplicate data entry into single form entry.
 - Automate monthly grant reporting to ensure partnering and governing agencies recieved required data. 
 - Reduced crisis & inpatient hospital readmissions by _% through machine learning techniques. 
-- Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of no show using machine learning techniques. 
+- Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of no show using machine learning techniques.
+
 **Burrell Behavioral Health**, _Quality Performance Analyst_
 November 2021 – March 2024
 - Reduced wait time by 68% for new psychiatric patients by analyzing trends and recommending changes to business operations.
