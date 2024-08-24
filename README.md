@@ -11,7 +11,8 @@ March 2024 - Present
 - Otimized data collection by 200% through reduction of redundant data entry. 
 - Automate monthly grant reporting to ensure contractural compliance with partnering and governing agencies.
 - Generated top-level reports for the agency's Board of Directors.
-##### Projects currently in progress - _awaiting verification of metrics_
+
+_Projects currently in progress - awaiting verification of metrics_
 - Reduced crisis & inpatient hospital readmissions from 20% to _%, crisis call center reutilization from _% to _%, and jail rearrests from _% to _% through machine learning techniques.
 - Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of appointment no show using machine learning.
 
