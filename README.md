@@ -79,6 +79,11 @@ Graduated with a Bachelor of Science Cum Laude with a major in sociology and a m
 - The primary goal of the analysis is to forecast and analyze patterns of revenue data for a healthcare system and determine how can the insights derived from these models contribute to optimizing financial strategies and decision-making for the organization.
 - The objectives of this analysis are to prepare the data for analysis by identifying missing values, verify the assumptions of time series analysis, and to build a model that is able to answer the research question. For this analysis, this analyst will use multiple methods to experiment and identify a model. The first method will be manually selecting some parameters for a series of models based on visual analysis of trends and seasonal decomposition, the second method will be to create a loop that will compare parameter values with one another in order to find the best performing model, and finally this analyst will use Auto ARIMA to see what that model thinks is the best performing model. 
 
+#### Travel
+[KNN Machine Learning Model - Hotel Reservation Cancellations](hotels_notebook.ipynb)
+- Analysis of hotel reservation data to identify if a reservation will be canceled using K-NEarest Neighbors. The model is abel to predict with a 84.7% accuracy and 89.5% AUC. This model shows signs of minimum overfitting. 
+- The primary goal of the analysis is to support a hotel with a project aimed to increase revenue with their hotel bookings. By identifying reservation cancellations, the hotel is able to increase revenue through strategic overbooking. This analaysis provides recomendations for stakeholders.
+
 ### Awards
 - [**Excellence Award, Data Mining I, Task 1**](Excellence_Award_Data_Mining_I_Task_1.pdf), _Western Governors University_ (2022)
 - [**Above and Beyond Award**](BEET_Above_and_Beyond.pdf), _Burrell Employee Engagement Team_ (2021)
