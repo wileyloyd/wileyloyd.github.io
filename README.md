@@ -8,10 +8,12 @@
 ### Work Experience
 **Family & Children's Services**, _Business Intelligence Analyst_
 March 2024 - Present
-- Otimized data collection redundancies, reducing triplicate data entry into single form entry.
-- Automate monthly grant reporting to ensure partnering and governing agencies recieved required data. 
-- Reduced crisis & inpatient hospital readmissions by _% through machine learning techniques. 
-- Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of no show using machine learning techniques.
+- Otimized data collection by 200% through reduction of redundant data entry. 
+- Automate monthly grant reporting to ensure contractural compliance with partnering and governing agencies.
+- Generated top-level reports for the agency's Board of Directors.
+##### Projects currently in progress - _awaiting verification of metrics_
+- Reduced crisis & inpatient hospital readmissions from 20% to _%, crisis call center reutilization from _% to _%, and jail rearrests from _% to _% through machine learning techniques.
+- Increased crisis patient intake appointments for outpatient care by _% through identifying qualified individuals and prediciting liklihood of appointment no show using machine learning.
 
 **Burrell Behavioral Health**, _Quality Performance Analyst_
 November 2021 – March 2024
