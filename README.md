@@ -73,6 +73,12 @@ Graduated with a Bachelor of Science Cum Laude with a major in sociology and a m
 [Hierarchical Clustering Model of Medical Data](Hierarchical_Clustering.ipynb)
 - The primary goal of the analysis is to develop a hierarchical clustering machine learning model to help cluster patients into segments of the length of stay during initial admission and average total charged per day. Performing patient segmentation facilitates improved categorization of patients by various departments. The information gained from this analysis may help inform revenue conversations and patient readmission, as it’s known from previous analyses that there is a relationship between the three features.
 
+[Healthcare Employee Attrition Analysis](Healthcare_Attrition_Analysis.ipynb)
+- The primary goal of the analysis is to understand and predict employee attrition in a healthcare setting. This analysis uses an XGBoost classification model to predict employee attrition. The information gained from this analysis would help inform a healthcare agency's human resource department on reducing employee turnover.
+- The model is able to predict with a 98.8% accuracy and 98.8% AUC.
+- This analysis addresses limitations to the model.  
+
+
 #### Natural Language Processing Projects
 [Sentiment Analysis of Customer Review Data Using Natural Language Processing](Sentiment_Analysis.ipynb)
 - The primary goal of the analysis is to employ neural network and natural language processing techniques on text data from external organization customer reviews to predict the sentiment, and use predictive insights to enhance customer satisfaction and inform strategic decision-making.
