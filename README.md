@@ -78,7 +78,6 @@ Graduated with a Bachelor of Science Cum Laude with a major in sociology and a m
 - The model is able to predict with a 98.8% accuracy and 98.8% AUC.
 - This analysis addresses limitations to the model.  
 
-
 #### Natural Language Processing Projects
 [Sentiment Analysis of Customer Review Data Using Natural Language Processing](Sentiment_Analysis.ipynb)
 - The primary goal of the analysis is to employ neural network and natural language processing techniques on text data from external organization customer reviews to predict the sentiment, and use predictive insights to enhance customer satisfaction and inform strategic decision-making.
