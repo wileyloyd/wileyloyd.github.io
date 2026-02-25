@@ -1,5 +1,5 @@
 # Data Scientist
-
+<!--
 ### Technical Skills
 - Proficiency with spreadsheets, Smartsheet, SQL, Tableau, Power BI, R Programming, and Python.
 - Strong business strategy, leadership, program management, analytical thinking, statistics, machine learning, data visualization, technical writing, and creative thinking skills.
@@ -51,7 +51,7 @@ Accelerated program in bachelors-level data analytics comprised of 180 hours of 
 **Missouri State University**, _Bachelor of Science in Sociology_
 August 2015 - May 2019
 Graduated with a Bachelor of Science Cum Laude with a major in sociology and a minor in art. Coursework heavily focused on statistics and research methods.
-
+-->
 ### Projects
 
 #### Medical Projects
